@@ -1,5 +1,5 @@
 # Banner-for-BONK
-## BONK BONK BONK
+### BONK BONK BONK
 
 The art of our project will be based on the Presidents from the United States dollar bill. It'll also look somethink like this: 
 
