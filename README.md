@@ -3,7 +3,7 @@ BONK BONK BONK
 
 The art of our project will be based on the Presidents from the United States dollar bill. It'll also look somethink like this: 
 
-![IMG_7687](https://user-images.githubusercontent.com/49865530/213940083-c5a81dcb-c396-4183-a8f4-13f34c0aa006.jpg =400*400)
+<img src="https://user-images.githubusercontent.com/49865530/213940083-c5a81dcb-c396-4183-a8f4-13f34c0aa006.jpg" width="200" height="400" />
 
 Our initial idea was to make the whole bill an NFT, but we decided to focus more on the 'pfp appropriate' art, hence the bill idea had to wait. But given that we already promised a 2 in 1 art in the whitepaper, we decided that every person will be able to mint a banner for BONK for their Twitter based on the DESTRUCT NFT that they already have, so it'll look something like this. 
 
