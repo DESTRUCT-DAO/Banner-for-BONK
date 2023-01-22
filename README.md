@@ -12,3 +12,5 @@ Our initial idea was to make the whole bill an NFT, but we decided to focus more
 After that, cause our project is named DESTRUCT, we will burn all the BONK that we'll have from banners. For the culture. 
 
 **P.S. Main pfp you see here is not a finished art and the bill in from our website, but you get the gist. It will be fire.** 
+
+**P.P.S. We'll do it either way. For the culture.**
